@@ -1,5 +1,11 @@
 # 公众号 Markdown 编辑器
 
+<p align="center">
+  <img src="assets/hero.gif" alt="huasheng_editor Hero Animation" />
+  <br/>
+  <sub>动画由 <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill 制作</sub>
+</p>
+
 <div align="center">
   <img src="logo.svg" width="120" height="120" alt="公众号 Markdown 编辑器">
 
